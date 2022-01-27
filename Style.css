@@ -1,0 +1,24 @@
+body {
+    margin-left: 80px; margin-right: 80px; margin-top: 50px; margin-bottom: 100px; background-color: rgb(137, 243, 123); color: black; 
+}
+
+h1 {
+    color: rgba(0, 132, 255, 0.994);font-size: 45px; text-align: center;
+}
+
+p {
+     color: black; line-height: 25px; text-align: justify;
+}
+
+#Bold-black {
+    font-size: 20px; color: black;
+}
+
+.Title1 {
+    color:rgba(255, 139, 30, 0.932);font-size: 25px;line-height: 20px;
+}
+
+.Title2 {
+    color:black;font-size: 20px;
+}
+
